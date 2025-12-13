@@ -4,8 +4,7 @@
   "description": "Free tier Cholq'ij calendar serverless function for Walking The White Road",
   "type": "module",
   "scripts": {
-    "dev": "vercel dev",
-    "build": "tsc"
+    "dev": "vercel dev"
   },
   "dependencies": {
     "@vercel/node": "^2.3.0",
